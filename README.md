@@ -1,5 +1,7 @@
 # Data and Code of *Sensing the Environmental Inequality of PM<sub>2.5</sub> Exposure Using Fine-Scale Measurements of Social Strata and Citizenship Identity*
 
+> Notice: currectly, the code is uncleaned. See [Dev branch](https://github.com/CenterForSocialComputing/ijgi-spatial-inequality-of-PM2.5-exposure/tree/dev).
+
 This repository contains data and code of our article *Sensing the Environmental Inequality of PM<sub>2.5</sub> Exposure Using Fine-Scale Measurements of Social Strata and Citizenship Identity*. 
 
 If you are going to use our code or data, please cite our publication (DOI: [10.3390/ijgi13070257](https://doi.org/10.3390/ijgi13070257)):
